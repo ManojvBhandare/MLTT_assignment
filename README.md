@@ -22,5 +22,4 @@
 ![image](https://github.com/ManojvBhandare/MLTT_assignment/assets/113242425/c299dde1-2317-4737-9ea4-c8ca6cac3aa7)
 ![image](https://github.com/ManojvBhandare/MLTT_assignment/assets/113242425/ccf99996-d01d-4cde-bf7d-7033d3c337f1)
 ![image](https://github.com/ManojvBhandare/MLTT_assignment/assets/113242425/fd406229-727b-4c76-883c-4c8e0122d8ee)
-# In Conclusion: Cluster analysis is helpful for placing customers into segments using data, which allow businesses to decide which segment(s) to target 
-# form distinct marketing mixs that will satisfy the needs and wants of each targeted Cluster.
+#### In Conclusion: Cluster analysis is helpful for placing customers into segments using data, which allow businesses to decide which segment(s) to target form distinct marketing mixs that will satisfy the needs and wants of each targeted Cluster.
